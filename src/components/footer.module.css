@@ -1,0 +1,48 @@
+footer{
+    background: #1f1f1f;
+    min-height: 100px;
+    width: 100%;
+    overflow: hidden;
+    font-size: 14px;
+}
+.footerdiv{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+
+
+
+
+
+.sociallinks{
+   display: block;
+   margin-top: 50px;
+   font-size: 22px;
+   text-align: center;
+   text-decoration: none;
+    background-color: transparent;
+    box-sizing: border-box;
+}
+.icon{
+    margin: 1.5rem;
+
+}
+a{
+    color:#fff;
+text-decoration: none;   
+background-color: transparent;
+ cursor: pointer;
+
+}
+.container{
+    text-align: center;
+    display:block;
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+    box-sizing: border-box;
+    font-size: 14px;
+    color:#fff;
+}

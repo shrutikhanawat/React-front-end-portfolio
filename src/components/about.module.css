@@ -1,0 +1,118 @@
+.div2{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    margin-bottom:3rem;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.div3{
+   display:block; 
+   flex-direction: column;
+   justify-content:center;
+   position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+.span1{
+    background: #fff;
+    display: inline-block;
+    margin: 55px 75px 30px;
+    padding: 15px 15px 5px;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 0 4px 6px rgb(0 0 0 / 30%);
+    transition: all .2s linear;
+    z-index: 0;
+    position: relative;
+
+}
+.icon{
+    display: flex;
+    justify-content:center;
+    text-align: center;
+    margin: 15px;
+    font-size: 50px;
+}
+.con1{
+    color: blue;
+    
+}
+.con2{
+   color: yellow;
+}
+.con3{
+color: #61DBFB;
+}
+
+
+.profile{
+  height: 250px; 
+  display: block;
+    max-width: 200px;
+    border-style:none;
+    
+}
+
+
+.sectioncontainer {
+    position: relative;
+    border-radius: .25rem;
+    width:500px;
+    margin:auto;
+    overflow: hidden;
+    box-shadow: 0 10px 20px rgba(0,0,0,.19), 0 6px 6px rgba(0,0,0,0.23);
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    word-wrap: break-word;
+    background-color: #fff;
+    
+}
+
+.toolbar {
+    background:#e6e4e6;
+    padding: 8px;
+    border-bottom: 1px solid rgba(0, 0, 0, .1);
+}
+.toolbar span {
+    width:10px;
+    height:10px;
+    border-radius:50%;
+    background:#ff5f57;
+    display: inline-block;
+    margin-right: 5px;
+}
+.toolbar span:nth-child(2) {
+    background:#ffbe2a;
+}
+.toolbar span:nth-child(3) {
+    background:#25ca3f;
+}
+.container {
+    background: #fff;
+    padding: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+code span {
+    color: red;
+}
+.card{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.emoji{
+backface-visibility: hidden; 
+color:yellow;
+
+}

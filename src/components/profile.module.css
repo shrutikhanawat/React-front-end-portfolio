@@ -1,0 +1,29 @@
+p{
+    text-align: center;
+     color:black;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.maindiv{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color:#e9d5a1;
+  height: 100vh;
+}
+h1{
+   text-align: center;
+   font-family:'Times New Roman', Times, serif;
+}
+
+.devgirl {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+  width: 100px;
+}
+
+

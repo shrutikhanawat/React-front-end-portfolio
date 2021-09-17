@@ -1,0 +1,72 @@
+.skills{
+    background:gray;
+    min-height: 200px;
+    width: 100%;
+    overflow: hidden;
+    padding-bottom: 10%;
+}
+.sectiontitle {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font: 18px/24px "opensans-bold",sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #fff;
+    text-align: center;
+}
+   .skillsicon{
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+
+   } 
+   .textcenter{
+    font-size: 30%; 
+    margin-top: 4px;
+    color: honeydew;
+    
+   }
+  .listorder{
+    color: #fff;
+    text-align: center;
+    position: relative;
+    font-size: 180%;
+    padding-left: 0;
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+   }
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    margin-bottom:1 rem;
+    margin-top: 0 ;
+
+   }
+   .listinline{
+       display: inline-block;
+       margin-left: 1rem;
+       margin-right: 1rem;
+
+   }
+   .listdiv{
+   background-color: rgba(248,245,244,.05);
+    padding: 10px 10px 5px;
+    width: 100px;
+    margin: 5px 0;
+    border-radius: 8px;
+    font-size: 220%;
+   }
+   p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-bottom: 1rem;
+}
