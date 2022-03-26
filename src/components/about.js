@@ -43,7 +43,7 @@ const AboutPage = () => {
                         <div className={style.container}>
                             <span>Hi  <span className={style.emoji}> <GrEmoji/></span></span><br />
                             <br />
-                            <span>👋 I'm Shruti Bhati. Dedicate person for preview purposes :) I'm working with newest front-end frameworks like  React . What you are seeing now is portfolio template from Shruti2021. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜</span>
+                            <span>👋 I'm Shruti Bhati. I am a B. Tech I.T. Engineer from India. I've just started learning web development and this is my first ever portfolio. If you like it, make sure to ⭐ the repository to make it more recognizable for other users. I am also looking for a job in React frontend development. So if you have any open position then you can contact me on linkedIn Thank you 💜</span>
 
                         </div>
                     </section>
